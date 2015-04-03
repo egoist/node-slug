@@ -1,4 +1,4 @@
-var slug = require('./index').slug()
+var slug = require('./').slug()
 
 var text = [
   '我爱你',
