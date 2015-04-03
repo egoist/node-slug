@@ -7,5 +7,5 @@ It's as easy as:
 ```
 var text = '我爱你'.slug()
 console.log(text)
-// It would print `wo-an-ni`
+// It would print `wo-ai-ni`
 ```
