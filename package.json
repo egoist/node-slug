@@ -1,0 +1,26 @@
+{
+  "name": "node-slug",
+  "version": "0.0.1",
+  "description": "Slugify your article title like a pro!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/touka0/node-slug.git"
+  },
+  "keywords": [
+    "slug",
+    "string"
+  ],
+  "author": "touka <i@touka.me> (http://touka.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/touka0/node-slug/issues"
+  },
+  "homepage": "https://github.com/touka0/node-slug",
+  "dependencies": {
+    "unidecode": "^0.1.3"
+  }
+}
